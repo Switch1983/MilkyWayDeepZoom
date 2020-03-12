@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Collection MaxLevel="8" TileSize="256" Format="jpg" NextItemId="16" ServerFormat="Default" xmlns="http://schemas.microsoft.com/deepzoom/2009">
+  <Items>
+    <I Id="0" N="0" Source="dzc_output_images/ssc2008-11a2.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-1" Y="-0" />
+    </I>
+    <I Id="1" N="1" Source="dzc_output_images/ssc2008-11a3.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-2" Y="-0" />
+    </I>
+    <I Id="2" N="2" Source="dzc_output_images/ssc2008-11a4.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-3" Y="-0" />
+    </I>
+    <I Id="3" N="3" Source="dzc_output_images/ssc2008-11a5.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-0" Y="-0.54621848739495882" />
+    </I>
+    <I Id="4" N="4" Source="dzc_output_images/ssc2008-11a6.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-1" Y="-0.54621848739495882" />
+    </I>
+    <I Id="5" N="5" Source="dzc_output_images/ssc2008-11a7.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-2" Y="-0.54621848739495882" />
+    </I>
+    <I Id="6" N="6" Source="dzc_output_images/ssc2008-11a8.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-3" Y="-0.54621848739495882" />
+    </I>
+    <I Id="7" N="7" Source="dzc_output_images/ssc2008-11a9.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-0" Y="-1.0924369747899139" />
+    </I>
+    <I Id="8" N="8" Source="dzc_output_images/ssc2008-11a10.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-1" Y="-1.0924369747899139" />
+    </I>
+    <I Id="9" N="9" Source="dzc_output_images/ssc2008-11a11.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-2" Y="-1.0924369747899139" />
+    </I>
+    <I Id="10" N="10" Source="dzc_output_images/ssc2008-11a12.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-3" Y="-1.0924369747899139" />
+    </I>
+    <I Id="11" N="11" Source="dzc_output_images/ssc2008-11a13.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-0" Y="-1.6386554621848735" />
+    </I>
+    <I Id="12" N="12" Source="dzc_output_images/ssc2008-11a14.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-1" Y="-1.6386554621848735" />
+    </I>
+    <I Id="13" N="13" Source="dzc_output_images/ssc2008-11a15.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-2" Y="-1.6386554621848735" />
+    </I>
+    <I Id="14" N="14" Source="dzc_output_images/ssc2008-11a16.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-3" Y="-1.6386554621848735" />
+    </I>
+    <I Id="15" N="15" Source="dzc_output_images/ssc2008-11a1.xml">
+      <Size Width="24752" Height="13520" />
+      <Viewport Width="4" X="-0" Y="-0" />
+    </I>
+  </Items>
+</Collection>
